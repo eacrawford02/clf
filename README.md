@@ -1,0 +1,1 @@
+This project aims to provide a way to access the filesystem from the commanline.
